@@ -1,4 +1,4 @@
-package id.ten.timeout.ratingservice;
+package id.ten.timeout.ratingservice.controller;
 
 import id.ten.timeout.commondto.ProductRatingDto;
 import id.ten.timeout.ratingservice.service.RatingService;

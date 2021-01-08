@@ -1,0 +1,37 @@
+HELP.md
+
+common-dto/target/
+common-dto.mvn/wrapper/maven-wrapper.jar
+common-dto/src/main/**/target/
+common-dto/src/test/**/target/
+
+product-service/target/
+product-service.mvn/wrapper/maven-wrapper.jar
+product-service/src/main/**/target/
+product-service/src/test/**/target/
+
+rating-service/target/
+rating-service.mvn/wrapper/maven-wrapper.jar
+rating-service/src/main/**/target/
+rating-service/src/test/**/target/
+
+### IntelliJ IDEA ###
+common-dto.idea
+common-dto.iws
+common-dto.iml
+common-dto.ipr
+
+product-service.idea
+product-service.iws
+product-service.iml
+product-service.ipr
+
+rating-service.idea
+rating-service.iws
+rating-service.iml
+rating-service.ipr
+
+.idea
+
+### VS Code ###
+.vscode/
